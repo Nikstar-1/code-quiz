@@ -17,7 +17,7 @@ The website can be found at the following address:
 !["Completed Page"](/assets/completedPage.jpg?raw=true "Quiz completed page.")
 
 **Quiz sample question.**
-!["Questions Page"](/assets/questionPage.jpg?raw=true "Quiz completed page.")
+!["Questions Page"](/assets/questionsPage.jpg?raw=true "Quiz completed page.")
 
 
 - Final score which is calculated using time remaining
